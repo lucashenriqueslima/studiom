@@ -1,0 +1,433 @@
+[11-Feb-2020 19:37:45 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[11-Feb-2020 19:37:46 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15814606655e432cb99642d.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[12-Feb-2020 10:03:18 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[12-Feb-2020 10:03:19 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15815125985e43f796dac08.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[14-Feb-2020 16:53:52 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[14-Feb-2020 16:53:53 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15817100325e46fad0c36f6.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[15-Feb-2020 13:41:08 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[15-Feb-2020 13:41:09 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15817848685e481f24ade5a.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[15-Feb-2020 13:42:12 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[15-Feb-2020 13:42:12 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15817849325e481f645f32b.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[16-Feb-2020 15:30:44 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[16-Feb-2020 15:30:44 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15818778445e498a5428066.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[16-Feb-2020 18:43:26 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[16-Feb-2020 18:43:27 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15818894065e49b77eeeed8.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[18-Feb-2020 13:55:14 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[18-Feb-2020 13:55:14 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15820449145e4c16f29ad0b.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[20-Feb-2020 13:12:01 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[20-Feb-2020 13:12:02 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15822151215e4eafd1caa0d.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[27-Feb-2020 08:16:25 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[27-Feb-2020 08:16:25 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15828021855e57a509abef7.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[05-Mar-2020 20:11:17 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[05-Mar-2020 20:11:18 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15834498775e618715a5726.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[06-Mar-2020 14:26:49 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/studioms/public_html/finaliza_cadastro.php on line 81
+[06-Mar-2020 14:57:59 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[06-Mar-2020 14:57:59 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15835174795e628f273b818.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[09-Mar-2020 11:04:29 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[09-Mar-2020 11:04:30 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15837626695e664cedd2330.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[09-Mar-2020 11:18:19 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[09-Mar-2020 11:18:19 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15837634995e66502b57fd6.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[09-Mar-2020 13:37:41 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[09-Mar-2020 13:37:41 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15837718615e6670d585068.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[09-Mar-2020 14:18:29 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[09-Mar-2020 14:18:29 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15837743095e667a655be95.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[09-Mar-2020 15:16:25 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[09-Mar-2020 15:16:25 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15837777855e6687f91959b.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[11-Mar-2020 09:15:42 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[11-Mar-2020 09:15:43 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15839289425e68d66ed6481.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[12-Mar-2020 23:43:18 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[12-Mar-2020 23:43:18 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15840673985e6af3462b03c.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[13-Mar-2020 09:33:48 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[13-Mar-2020 09:33:48 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15841028285e6b7dac25596.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[13-Mar-2020 09:33:49 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[13-Mar-2020 09:33:49 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15841028295e6b7dad265c5.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[13-Mar-2020 15:52:07 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[13-Mar-2020 15:52:07 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15841255275e6bd6578a811.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[16-Mar-2020 14:19:57 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[16-Mar-2020 14:19:58 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15843791975e6fb53da98bf.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[16-Mar-2020 14:20:45 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[16-Mar-2020 14:20:45 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15843792455e6fb56d840c9.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[16-Mar-2020 20:16:51 UTC] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/recebe_identificacao.php on line 15
+[18-Mar-2020 18:28:29 UTC] PHP Deprecated:  Function preg_replace() is deprecated in /home/studioms/public_html/finaliza_cadastro.php on line 25
+[18-Mar-2020 18:28:29 UTC] PHP Deprecated:  Function preg_replace() is deprecated in /home/studioms/public_html/finaliza_cadastro.php on line 25
+[18-Mar-2020 18:28:29 UTC] PHP Deprecated:  Function preg_replace() is deprecated in /home/studioms/public_html/finaliza_cadastro.php on line 25
+[18-Mar-2020 18:28:29 UTC] PHP Deprecated:  Function preg_replace() is deprecated in /home/studioms/public_html/finaliza_cadastro.php on line 25
+[18-Mar-2020 18:28:29 UTC] PHP Deprecated:  Function preg_replace() is deprecated in /home/studioms/public_html/finaliza_cadastro.php on line 25
+[18-Mar-2020 18:28:29 UTC] PHP Deprecated:  Function preg_replace() is deprecated in /home/studioms/public_html/finaliza_cadastro.php on line 25
+[18-Mar-2020 18:31:19 UTC] PHP Deprecated:  Function preg_replace() is deprecated in /home/studioms/public_html/finaliza_cadastro.php on line 25
+[18-Mar-2020 18:31:19 UTC] PHP Warning:  mkdir(): File exists in /home/studioms/public_html/finaliza_cadastro.php on line 27
+[18-Mar-2020 18:31:19 UTC] PHP Deprecated:  Function preg_replace() is deprecated in /home/studioms/public_html/finaliza_cadastro.php on line 25
+[18-Mar-2020 18:31:19 UTC] PHP Warning:  mkdir(): File exists in /home/studioms/public_html/finaliza_cadastro.php on line 27
+[18-Mar-2020 18:31:19 UTC] PHP Deprecated:  Function preg_replace() is deprecated in /home/studioms/public_html/finaliza_cadastro.php on line 25
+[18-Mar-2020 18:31:19 UTC] PHP Warning:  mkdir(): File exists in /home/studioms/public_html/finaliza_cadastro.php on line 27
+[18-Mar-2020 18:31:19 UTC] PHP Deprecated:  Function preg_replace() is deprecated in /home/studioms/public_html/finaliza_cadastro.php on line 25
+[18-Mar-2020 18:31:19 UTC] PHP Warning:  mkdir(): File exists in /home/studioms/public_html/finaliza_cadastro.php on line 27
+[18-Mar-2020 18:31:19 UTC] PHP Deprecated:  Function preg_replace() is deprecated in /home/studioms/public_html/finaliza_cadastro.php on line 25
+[18-Mar-2020 18:31:19 UTC] PHP Warning:  mkdir(): File exists in /home/studioms/public_html/finaliza_cadastro.php on line 27
+[18-Mar-2020 18:31:19 UTC] PHP Deprecated:  Function preg_replace() is deprecated in /home/studioms/public_html/finaliza_cadastro.php on line 25
+[18-Mar-2020 18:31:19 UTC] PHP Warning:  mkdir(): File exists in /home/studioms/public_html/finaliza_cadastro.php on line 27
+[18-Mar-2020 18:38:09 UTC] PHP Deprecated:  Function preg_replace() is deprecated in /home/studioms/public_html/finaliza_cadastro.php on line 25
+[18-Mar-2020 18:38:09 UTC] PHP Deprecated:  Function preg_replace() is deprecated in /home/studioms/public_html/finaliza_cadastro.php on line 25
+[18-Mar-2020 18:38:09 UTC] PHP Deprecated:  Function preg_replace() is deprecated in /home/studioms/public_html/finaliza_cadastro.php on line 25
+[18-Mar-2020 18:38:09 UTC] PHP Deprecated:  Function preg_replace() is deprecated in /home/studioms/public_html/finaliza_cadastro.php on line 25
+[18-Mar-2020 18:38:09 UTC] PHP Deprecated:  Function preg_replace() is deprecated in /home/studioms/public_html/finaliza_cadastro.php on line 25
+[18-Mar-2020 18:38:09 UTC] PHP Deprecated:  Function preg_replace() is deprecated in /home/studioms/public_html/finaliza_cadastro.php on line 25
+[19-Mar-2020 13:42:31 UTC] PHP Deprecated:  Function preg_replace() is deprecated in /home/studioms/public_html/finaliza_cadastro.php on line 25
+[20-Mar-2020 22:38:00 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[20-Mar-2020 22:38:01 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15847546805e756ff8f3ec5.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[23-Mar-2020 11:56:46 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[23-Mar-2020 11:56:46 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15849754065e78ce2e8e4f2.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[23-Mar-2020 15:51:51 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[23-Mar-2020 15:51:52 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15849895115e790547d22eb.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[23-Mar-2020 17:05:52 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[23-Mar-2020 17:05:52 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15849939525e7916a044be6.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[23-Mar-2020 17:12:48 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[23-Mar-2020 17:12:48 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15849943685e7918408de6a.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[24-Mar-2020 11:43:06 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[24-Mar-2020 11:43:06 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15850609865e7a1c7a5cc64.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[25-Mar-2020 08:47:41 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[25-Mar-2020 08:47:41 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15851368615e7b44dd5a1e0.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[25-Mar-2020 08:51:46 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[25-Mar-2020 08:51:46 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15851371065e7b45d249ac0.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[25-Mar-2020 08:52:50 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[25-Mar-2020 08:52:51 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15851371705e7b4612e9c40.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[25-Mar-2020 08:55:32 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[25-Mar-2020 08:55:32 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15851373325e7b46b486d4b.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[25-Mar-2020 08:57:02 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[25-Mar-2020 08:57:02 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15851374225e7b470e27fc9.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[25-Mar-2020 09:04:49 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[25-Mar-2020 09:04:49 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15851378895e7b48e16bb25.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[25-Mar-2020 09:08:44 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[25-Mar-2020 09:08:44 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15851381245e7b49cc985f9.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[25-Mar-2020 09:15:50 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[25-Mar-2020 09:15:50 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15851385505e7b4b7692f33.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[25-Mar-2020 09:19:27 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[25-Mar-2020 09:19:27 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15851387675e7b4c4f68bda.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[25-Mar-2020 09:21:14 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[25-Mar-2020 09:21:14 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15851388745e7b4cba0d242.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[25-Mar-2020 09:23:15 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[25-Mar-2020 09:23:15 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15851389955e7b4d3323d8e.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[25-Mar-2020 09:25:19 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[25-Mar-2020 09:25:19 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15851391195e7b4daf23d29.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[25-Mar-2020 09:27:00 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[25-Mar-2020 09:27:00 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15851392205e7b4e1444a4e.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[25-Mar-2020 10:35:48 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[25-Mar-2020 10:35:48 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15851433485e7b5e3475d87.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[25-Mar-2020 14:08:38 UTC] PHP Deprecated:  Function preg_replace() is deprecated in /home/studioms/public_html/finaliza_cadastro.php on line 25
+[25-Mar-2020 13:32:55 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[25-Mar-2020 13:32:55 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15851539755e7b87b7272ca.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[25-Mar-2020 13:34:16 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[25-Mar-2020 13:34:16 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15851540565e7b8808c39be.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[25-Mar-2020 13:41:06 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[25-Mar-2020 13:41:06 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15851544665e7b89a2c45d4.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[25-Mar-2020 13:48:11 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[25-Mar-2020 13:48:11 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15851548915e7b8b4b2949c.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[25-Mar-2020 13:53:00 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[25-Mar-2020 13:53:00 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15851551805e7b8c6cc3e26.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[26-Mar-2020 11:26:38 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[26-Mar-2020 11:26:39 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15852327985e7cbb9ed9a03.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[26-Mar-2020 12:16:41 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[26-Mar-2020 12:16:41 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15852358015e7cc75954e1b.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[26-Mar-2020 14:57:12 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[26-Mar-2020 14:57:12 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15852454325e7cecf829988.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[27-Mar-2020 07:51:50 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[27-Mar-2020 07:51:50 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15853063105e7ddac6415a9.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[27-Mar-2020 09:36:46 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[27-Mar-2020 09:36:47 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15853126065e7df35edfbc9.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[27-Mar-2020 09:38:34 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[27-Mar-2020 09:38:34 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15853127145e7df3ca71c91.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[27-Mar-2020 12:45:53 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[27-Mar-2020 12:45:53 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15853239535e7e1fb19a0f9.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[27-Mar-2020 12:46:14 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[27-Mar-2020 12:46:15 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15853239745e7e1fc6f3c7a.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[27-Mar-2020 13:40:09 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[27-Mar-2020 13:40:09 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15853272095e7e2c698abf9.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[27-Mar-2020 13:56:19 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[27-Mar-2020 13:56:19 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15853281795e7e303307a4f.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[27-Mar-2020 21:19:59 UTC] PHP Deprecated:  Function preg_replace() is deprecated in /home/studioms/public_html/finaliza_cadastro.php on line 25
+[27-Mar-2020 21:12:42 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[27-Mar-2020 21:12:42 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15853543625e7e967a30f23.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[27-Mar-2020 21:12:59 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[27-Mar-2020 21:13:00 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15853543795e7e968be7483.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[27-Mar-2020 21:24:11 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[27-Mar-2020 21:24:11 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15853550515e7e992b68f48.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[27-Mar-2020 21:24:38 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[27-Mar-2020 21:24:38 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15853550785e7e99463eebf.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[27-Mar-2020 21:37:37 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[27-Mar-2020 21:37:38 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15853558575e7e9c51d32d8.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[27-Mar-2020 22:05:07 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[27-Mar-2020 22:05:07 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15853575075e7ea2c30934d.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[27-Mar-2020 22:24:59 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[27-Mar-2020 22:24:59 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15853586995e7ea76baee75.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[27-Mar-2020 22:45:46 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[27-Mar-2020 22:45:46 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15853599465e7eac4ab496a.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[28-Mar-2020 10:53:06 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[28-Mar-2020 10:53:06 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15854035865e7f56c2852c6.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[28-Mar-2020 10:53:16 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[28-Mar-2020 10:53:17 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15854035965e7f56cceb343.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[28-Mar-2020 17:43:45 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[28-Mar-2020 17:43:46 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15854282255e7fb701d8119.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[28-Mar-2020 18:09:06 America/Sao_Paulo] PHP Warning:  file_put_contents(): Filename cannot be empty in /home/studioms/public_html/atualizarimagem.php on line 14
+[28-Mar-2020 18:09:06 America/Sao_Paulo] PHP Warning:  rename(,sistema/arquivos/): No such file or directory in /home/studioms/public_html/atualizarimagem.php on line 16
+[28-Mar-2020 18:09:15 America/Sao_Paulo] PHP Warning:  file_put_contents(): Filename cannot be empty in /home/studioms/public_html/atualizarimagem.php on line 14
+[28-Mar-2020 18:09:15 America/Sao_Paulo] PHP Warning:  rename(,sistema/arquivos/): No such file or directory in /home/studioms/public_html/atualizarimagem.php on line 16
+[28-Mar-2020 18:20:46 America/Sao_Paulo] PHP Warning:  file_put_contents(): Filename cannot be empty in /home/studioms/public_html/atualizarimagem.php on line 14
+[28-Mar-2020 18:20:46 America/Sao_Paulo] PHP Warning:  rename(,sistema/arquivos/): No such file or directory in /home/studioms/public_html/atualizarimagem.php on line 16
+[28-Mar-2020 18:23:08 America/Sao_Paulo] PHP Warning:  file_put_contents(): Filename cannot be empty in /home/studioms/public_html/atualizarimagem.php on line 14
+[28-Mar-2020 18:23:08 America/Sao_Paulo] PHP Warning:  rename(,sistema/arquivos/): No such file or directory in /home/studioms/public_html/atualizarimagem.php on line 16
+[29-Mar-2020 13:04:07 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[29-Mar-2020 13:04:07 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15854978475e80c6f73252c.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[29-Mar-2020 13:35:22 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[29-Mar-2020 13:35:22 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15854997225e80ce4aade7d.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[30-Mar-2020 00:42:10 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[30-Mar-2020 00:42:10 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15855397305e816a92042f6.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[30-Mar-2020 09:02:36 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[30-Mar-2020 09:02:36 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15855697565e81dfdc37ef6.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[30-Mar-2020 13:25:31 UTC] PHP Deprecated:  Function preg_replace() is deprecated in /home/studioms/public_html/finaliza_cadastro.php on line 25
+[30-Mar-2020 13:25:31 UTC] PHP Warning:  mkdir(): File exists in /home/studioms/public_html/finaliza_cadastro.php on line 27
+[30-Mar-2020 13:25:31 UTC] PHP Deprecated:  Function preg_replace() is deprecated in /home/studioms/public_html/finaliza_cadastro.php on line 25
+[30-Mar-2020 13:25:31 UTC] PHP Warning:  mkdir(): File exists in /home/studioms/public_html/finaliza_cadastro.php on line 27
+[30-Mar-2020 13:25:31 UTC] PHP Deprecated:  Function preg_replace() is deprecated in /home/studioms/public_html/finaliza_cadastro.php on line 25
+[30-Mar-2020 13:25:31 UTC] PHP Warning:  mkdir(): File exists in /home/studioms/public_html/finaliza_cadastro.php on line 27
+[30-Mar-2020 13:25:31 UTC] PHP Deprecated:  Function preg_replace() is deprecated in /home/studioms/public_html/finaliza_cadastro.php on line 25
+[30-Mar-2020 13:25:31 UTC] PHP Warning:  mkdir(): File exists in /home/studioms/public_html/finaliza_cadastro.php on line 27
+[30-Mar-2020 13:25:31 UTC] PHP Deprecated:  Function preg_replace() is deprecated in /home/studioms/public_html/finaliza_cadastro.php on line 25
+[30-Mar-2020 13:25:31 UTC] PHP Warning:  mkdir(): File exists in /home/studioms/public_html/finaliza_cadastro.php on line 27
+[30-Mar-2020 12:34:07 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[30-Mar-2020 12:34:08 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15855824475e82116fe5f65.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[30-Mar-2020 17:34:05 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[30-Mar-2020 17:34:05 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15856004455e8257bd8c44c.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[30-Mar-2020 17:38:34 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[30-Mar-2020 17:38:34 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15856007145e8258ca160d3.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[30-Mar-2020 18:02:58 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[30-Mar-2020 18:02:58 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15856021785e825e82c392b.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[30-Mar-2020 18:10:36 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[30-Mar-2020 18:10:36 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15856026365e82604c8b6c1.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[31-Mar-2020 08:27:35 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[31-Mar-2020 08:27:35 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15856540545e83292703e63.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[31-Mar-2020 09:46:28 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[31-Mar-2020 09:46:28 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15856587885e833ba499de7.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[31-Mar-2020 16:03:08 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[31-Mar-2020 16:03:08 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15856813885e8393ec3fd74.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[31-Mar-2020 16:09:27 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[31-Mar-2020 16:09:28 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15856817675e839567e43e9.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[31-Mar-2020 22:37:45 UTC] PHP Deprecated:  Function preg_replace() is deprecated in /home/studioms/public_html/finaliza_cadastro.php on line 25
+[01-Apr-2020 10:43:10 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[01-Apr-2020 10:43:10 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15857485905e849a6e4ba43.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[01-Apr-2020 17:53:09 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[01-Apr-2020 17:53:09 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15857743895e84ff355db68.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[03-Apr-2020 14:32:51 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[03-Apr-2020 14:32:51 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15859351715e8773433cc71.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[04-Apr-2020 20:14:32 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[04-Apr-2020 20:14:33 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15860420725e8914d8cd60d.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[05-Apr-2020 18:05:34 UTC] PHP Deprecated:  Function preg_replace() is deprecated in /home/studioms/public_html/finaliza_cadastro.php on line 25
+[05-Apr-2020 23:07:12 UTC] PHP Deprecated:  Function preg_replace() is deprecated in /home/studioms/public_html/finaliza_cadastro.php on line 25
+[06-Apr-2020 08:12:55 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[06-Apr-2020 08:12:56 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15861715755e8b0eb7ce168.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[06-Apr-2020 09:36:02 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[06-Apr-2020 09:36:02 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15861765625e8b223237273.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[06-Apr-2020 09:40:44 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[06-Apr-2020 09:40:44 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15861768445e8b234c933c4.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[06-Apr-2020 09:43:06 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[06-Apr-2020 09:43:06 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15861769865e8b23dab7fe2.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[06-Apr-2020 09:47:21 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[06-Apr-2020 09:47:21 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15861772415e8b24d9868d8.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[06-Apr-2020 09:49:16 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[06-Apr-2020 09:49:17 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15861773565e8b254ccc94f.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[06-Apr-2020 09:53:05 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[06-Apr-2020 09:53:06 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15861775855e8b2631dc101.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[06-Apr-2020 09:58:14 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[06-Apr-2020 09:58:14 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15861778945e8b2766a34cb.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[06-Apr-2020 10:10:39 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[06-Apr-2020 10:10:39 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15861786395e8b2a4f565be.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[06-Apr-2020 10:16:43 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[06-Apr-2020 10:16:43 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15861790035e8b2bbb23cec.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[06-Apr-2020 10:18:05 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[06-Apr-2020 10:18:05 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15861790855e8b2c0d8e70f.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[06-Apr-2020 10:19:30 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[06-Apr-2020 10:19:30 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15861791705e8b2c6227760.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[06-Apr-2020 10:20:53 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[06-Apr-2020 10:20:53 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15861792535e8b2cb53c285.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[06-Apr-2020 10:22:09 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[06-Apr-2020 10:22:09 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15861793295e8b2d0196af0.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[06-Apr-2020 10:23:57 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[06-Apr-2020 10:23:57 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15861794375e8b2d6d4725b.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[06-Apr-2020 10:25:38 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[06-Apr-2020 10:25:38 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15861795385e8b2dd2579f5.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[06-Apr-2020 10:27:55 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[06-Apr-2020 10:27:55 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15861796755e8b2e5b0e7c0.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[06-Apr-2020 10:29:14 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[06-Apr-2020 10:29:14 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15861797545e8b2eaa21e8c.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[06-Apr-2020 16:29:27 UTC] PHP Deprecated:  Function preg_replace() is deprecated in /home/studioms/public_html/finaliza_cadastro.php on line 25
+[06-Apr-2020 21:45:11 UTC] PHP Deprecated:  Function preg_replace() is deprecated in /home/studioms/public_html/finaliza_cadastro.php on line 25
+[07-Apr-2020 09:10:29 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[07-Apr-2020 09:10:30 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15862614295e8c6db58a2db.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[07-Apr-2020 09:18:28 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[07-Apr-2020 09:18:28 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15862619085e8c6f943e623.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[08-Apr-2020 12:48:35 UTC] PHP Deprecated:  Function preg_replace() is deprecated in /home/studioms/public_html/finaliza_cadastro.php on line 25
+[10-Apr-2020 01:29:34 UTC] PHP Deprecated:  Function preg_replace() is deprecated in /home/studioms/public_html/finaliza_cadastro.php on line 25
+[11-Apr-2020 17:24:44 UTC] PHP Deprecated:  Function preg_replace() is deprecated in /home/studioms/public_html/finaliza_cadastro.php on line 25
+[13-Apr-2020 18:00:38 UTC] PHP Deprecated:  Function preg_replace() is deprecated in /home/studioms/public_html/finaliza_cadastro.php on line 25
+[14-Apr-2020 13:33:08 UTC] PHP Deprecated:  Function preg_replace() is deprecated in /home/studioms/public_html/finaliza_cadastro.php on line 25
+[14-Apr-2020 14:10:40 UTC] PHP Deprecated:  Function preg_replace() is deprecated in /home/studioms/public_html/finaliza_cadastro.php on line 25
+[14-Apr-2020 17:12:19 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[14-Apr-2020 17:12:20 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15868951395e961923864c8.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[15-Apr-2020 08:16:57 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[15-Apr-2020 08:16:57 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15869494175e96ed2912885.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[15-Apr-2020 08:24:47 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[15-Apr-2020 08:24:47 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15869498875e96eeff9be8a.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[15-Apr-2020 08:44:26 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[15-Apr-2020 08:44:27 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15869510665e96f39af22e3.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[15-Apr-2020 09:04:10 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[15-Apr-2020 09:04:10 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15869522505e96f83a33702.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[15-Apr-2020 09:29:35 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[15-Apr-2020 09:29:36 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15869537755e96fe2fec090.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[15-Apr-2020 09:34:50 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[15-Apr-2020 09:34:50 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15869540905e96ff6a311b9.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[15-Apr-2020 09:49:43 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[15-Apr-2020 09:49:43 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15869549835e9702e7bf72a.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[15-Apr-2020 10:00:45 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[15-Apr-2020 10:00:45 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15869556455e97057d785f9.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[15-Apr-2020 10:18:42 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[15-Apr-2020 10:18:42 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15869567225e9709b220b25.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[15-Apr-2020 10:23:24 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[15-Apr-2020 10:23:25 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15869570045e970accecf98.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[15-Apr-2020 10:37:42 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[15-Apr-2020 10:37:42 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15869578625e970e2624fc9.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[15-Apr-2020 10:52:49 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[15-Apr-2020 10:52:49 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15869587695e9711b137bac.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[15-Apr-2020 11:07:37 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[15-Apr-2020 11:07:37 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15869596575e97152992193.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[15-Apr-2020 11:10:47 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[15-Apr-2020 11:10:47 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15869598475e9715e728684.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[15-Apr-2020 11:33:23 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[15-Apr-2020 11:33:23 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15869612035e971b337bf8a.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[15-Apr-2020 11:52:37 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[15-Apr-2020 11:52:37 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15869623575e971fb512c10.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[15-Apr-2020 12:11:09 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[15-Apr-2020 12:11:09 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15869634695e97240d2c87b.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[15-Apr-2020 12:12:01 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[15-Apr-2020 12:12:01 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15869635215e972441a0e2f.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[15-Apr-2020 12:29:46 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[15-Apr-2020 12:29:46 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15869645865e97286a39f1e.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[15-Apr-2020 13:16:43 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[15-Apr-2020 13:16:43 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15869674035e97336b8f251.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[15-Apr-2020 13:40:59 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[15-Apr-2020 13:40:59 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15869688595e97391b1fe78.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[15-Apr-2020 14:23:56 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[15-Apr-2020 14:23:56 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15869714365e97432c62756.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[15-Apr-2020 14:31:17 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[15-Apr-2020 14:31:18 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15869718775e9744e5944a1.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[15-Apr-2020 14:36:03 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[15-Apr-2020 14:36:03 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15869721635e974603b2e81.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[15-Apr-2020 14:47:55 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[15-Apr-2020 14:47:55 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15869728755e9748cb65395.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[15-Apr-2020 18:41:21 UTC] PHP Deprecated:  Function preg_replace() is deprecated in /home/studioms/public_html/finaliza_cadastro.php on line 25
+[15-Apr-2020 16:06:05 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[15-Apr-2020 16:06:06 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15869775655e975b1d83a0b.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[15-Apr-2020 16:17:50 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[15-Apr-2020 16:17:50 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15869782705e975dde13466.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[15-Apr-2020 16:18:32 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[15-Apr-2020 16:18:32 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15869783125e975e084646b.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[15-Apr-2020 18:32:44 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[15-Apr-2020 18:32:45 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15869863645e977d7cd5298.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[15-Apr-2020 18:33:07 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[15-Apr-2020 18:33:07 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15869863875e977d93868af.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[15-Apr-2020 18:55:28 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[15-Apr-2020 18:55:29 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15869877285e9782d0e5a38.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[15-Apr-2020 19:08:35 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[15-Apr-2020 19:08:36 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15869885155e9785e3d916b.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[15-Apr-2020 23:10:38 UTC] PHP Deprecated:  Function preg_replace() is deprecated in /home/studioms/public_html/finaliza_cadastro.php on line 25
+[15-Apr-2020 22:03:13 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[15-Apr-2020 22:03:14 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15869989935e97aed1a79f9.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[15-Apr-2020 23:03:32 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[15-Apr-2020 23:03:32 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15870026125e97bcf4be72d.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[16-Apr-2020 09:51:35 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[16-Apr-2020 09:51:36 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15870414955e9854d7a9afe.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[16-Apr-2020 09:59:38 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[16-Apr-2020 09:59:38 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15870419785e9856ba6c35b.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[16-Apr-2020 11:10:29 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[16-Apr-2020 11:10:29 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15870462295e986755c9880.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[16-Apr-2020 11:11:06 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[16-Apr-2020 11:11:06 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15870462665e98677a2a8cb.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[16-Apr-2020 14:28:47 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[16-Apr-2020 14:28:48 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15870581275e9895cfd6936.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[16-Apr-2020 14:36:02 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[16-Apr-2020 14:36:02 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15870585625e9897824cbd9.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[16-Apr-2020 20:21:29 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[16-Apr-2020 20:21:29 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15870792895e98e87979f4d.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[16-Apr-2020 20:33:46 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[16-Apr-2020 20:33:46 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15870800265e98eb5a90ee4.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[16-Apr-2020 22:01:59 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[16-Apr-2020 22:02:00 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15870853195e990007cd070.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[21-Apr-2020 21:02:26 UTC] PHP Deprecated:  Function preg_replace() is deprecated in /home/studioms/public_html/finaliza_cadastro.php on line 25
+[21-Apr-2020 21:22:05 UTC] PHP Deprecated:  Function preg_replace() is deprecated in /home/studioms/public_html/finaliza_cadastro.php on line 25
+[22-Apr-2020 15:45:03 UTC] PHP Deprecated:  Function preg_replace() is deprecated in /home/studioms/public_html/finaliza_cadastro.php on line 25
+[23-Apr-2020 01:37:57 UTC] PHP Deprecated:  Function preg_replace() is deprecated in /home/studioms/public_html/finaliza_cadastro.php on line 25
+[23-Apr-2020 14:40:11 UTC] PHP Deprecated:  Function preg_replace() is deprecated in /home/studioms/public_html/finaliza_cadastro.php on line 25
+[23-Apr-2020 12:08:32 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[23-Apr-2020 12:08:33 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15876545125ea1af70e5881.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[23-Apr-2020 12:12:38 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[23-Apr-2020 12:12:38 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15876547585ea1b0667ef2f.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[24-Apr-2020 18:44:49 America/Sao_Paulo] PHP Warning:  file_put_contents(): Filename cannot be empty in /home/studioms/public_html/atualizarimagem.php on line 14
+[24-Apr-2020 18:44:49 America/Sao_Paulo] PHP Warning:  rename(,sistema/arquivos/): No such file or directory in /home/studioms/public_html/atualizarimagem.php on line 16
+[24-Apr-2020 18:44:51 America/Sao_Paulo] PHP Warning:  file_put_contents(): Filename cannot be empty in /home/studioms/public_html/atualizarimagem.php on line 14
+[24-Apr-2020 18:44:51 America/Sao_Paulo] PHP Warning:  rename(,sistema/arquivos/): No such file or directory in /home/studioms/public_html/atualizarimagem.php on line 16
+[24-Apr-2020 18:44:51 America/Sao_Paulo] PHP Warning:  file_put_contents(): Filename cannot be empty in /home/studioms/public_html/atualizarimagem.php on line 14
+[24-Apr-2020 18:44:51 America/Sao_Paulo] PHP Warning:  rename(,sistema/arquivos/): No such file or directory in /home/studioms/public_html/atualizarimagem.php on line 16
+[24-Apr-2020 18:45:28 America/Sao_Paulo] PHP Warning:  file_put_contents(): Filename cannot be empty in /home/studioms/public_html/atualizarimagem.php on line 14
+[24-Apr-2020 18:45:28 America/Sao_Paulo] PHP Warning:  rename(,sistema/arquivos/): No such file or directory in /home/studioms/public_html/atualizarimagem.php on line 16
+[24-Apr-2020 18:49:16 America/Sao_Paulo] PHP Warning:  file_put_contents(): Filename cannot be empty in /home/studioms/public_html/atualizarimagem.php on line 14
+[24-Apr-2020 18:49:16 America/Sao_Paulo] PHP Warning:  rename(,sistema/arquivos/): No such file or directory in /home/studioms/public_html/atualizarimagem.php on line 16
+[24-Apr-2020 18:49:16 America/Sao_Paulo] PHP Warning:  file_put_contents(): Filename cannot be empty in /home/studioms/public_html/atualizarimagem.php on line 14
+[24-Apr-2020 18:49:16 America/Sao_Paulo] PHP Warning:  rename(,sistema/arquivos/): No such file or directory in /home/studioms/public_html/atualizarimagem.php on line 16
+[24-Apr-2020 21:50:47 UTC] PHP Deprecated:  Function preg_replace() is deprecated in /home/studioms/public_html/finaliza_cadastro.php on line 25
+[27-Apr-2020 09:33:32 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[27-Apr-2020 09:33:33 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15879908125ea6d11ce0512.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[27-Apr-2020 18:48:58 UTC] PHP Deprecated:  Function preg_replace() is deprecated in /home/studioms/public_html/finaliza_cadastro.php on line 25
+[27-Apr-2020 15:51:22 America/Sao_Paulo] PHP Warning:  file_put_contents(): Filename cannot be empty in /home/studioms/public_html/atualizarimagem.php on line 14
+[27-Apr-2020 15:51:22 America/Sao_Paulo] PHP Warning:  rename(,sistema/arquivos/): No such file or directory in /home/studioms/public_html/atualizarimagem.php on line 16
+[27-Apr-2020 15:51:23 America/Sao_Paulo] PHP Warning:  file_put_contents(): Filename cannot be empty in /home/studioms/public_html/atualizarimagem.php on line 14
+[27-Apr-2020 15:51:23 America/Sao_Paulo] PHP Warning:  rename(,sistema/arquivos/): No such file or directory in /home/studioms/public_html/atualizarimagem.php on line 16
+[27-Apr-2020 15:51:23 America/Sao_Paulo] PHP Warning:  file_put_contents(): Filename cannot be empty in /home/studioms/public_html/atualizarimagem.php on line 14
+[27-Apr-2020 15:51:23 America/Sao_Paulo] PHP Warning:  rename(,sistema/arquivos/): No such file or directory in /home/studioms/public_html/atualizarimagem.php on line 16
+[27-Apr-2020 15:51:24 America/Sao_Paulo] PHP Warning:  file_put_contents(): Filename cannot be empty in /home/studioms/public_html/atualizarimagem.php on line 14
+[27-Apr-2020 15:51:24 America/Sao_Paulo] PHP Warning:  rename(,sistema/arquivos/): No such file or directory in /home/studioms/public_html/atualizarimagem.php on line 16
+[27-Apr-2020 19:14:35 UTC] PHP Deprecated:  Function preg_replace() is deprecated in /home/studioms/public_html/finaliza_cadastro.php on line 25
+[27-Apr-2020 19:58:50 UTC] PHP Deprecated:  Function preg_replace() is deprecated in /home/studioms/public_html/finaliza_cadastro.php on line 25
+[28-Apr-2020 21:20:31 UTC] PHP Deprecated:  Function preg_replace() is deprecated in /home/studioms/public_html/finaliza_cadastro.php on line 25
+[28-Apr-2020 21:37:25 UTC] PHP Deprecated:  Function preg_replace() is deprecated in /home/studioms/public_html/finaliza_cadastro.php on line 25
+[28-Apr-2020 22:04:21 UTC] PHP Deprecated:  Function preg_replace() is deprecated in /home/studioms/public_html/finaliza_cadastro.php on line 25
+[30-Apr-2020 15:29:02 UTC] PHP Deprecated:  Function preg_replace() is deprecated in /home/studioms/public_html/finaliza_cadastro.php on line 25
+[30-Apr-2020 15:35:36 UTC] PHP Deprecated:  Function preg_replace() is deprecated in /home/studioms/public_html/finaliza_cadastro.php on line 25
+[30-Apr-2020 12:52:15 America/Sao_Paulo] PHP Warning:  file_put_contents(): Filename cannot be empty in /home/studioms/public_html/atualizarimagem.php on line 14
+[30-Apr-2020 12:52:15 America/Sao_Paulo] PHP Warning:  rename(,sistema/arquivos/): No such file or directory in /home/studioms/public_html/atualizarimagem.php on line 16
+[05-May-2020 16:26:57 UTC] PHP Deprecated:  Function preg_replace() is deprecated in /home/studioms/public_html/finaliza_cadastro.php on line 25
+[05-May-2020 19:07:57 UTC] PHP Deprecated:  Function preg_replace() is deprecated in /home/studioms/public_html/finaliza_cadastro.php on line 25
+[07-May-2020 16:27:47 America/Sao_Paulo] PHP Warning:  file_put_contents(): Filename cannot be empty in /home/studioms/public_html/atualizarimagem.php on line 14
+[07-May-2020 16:27:47 America/Sao_Paulo] PHP Warning:  rename(,sistema/arquivos/): No such file or directory in /home/studioms/public_html/atualizarimagem.php on line 16
+[07-May-2020 16:27:47 America/Sao_Paulo] PHP Warning:  file_put_contents(): Filename cannot be empty in /home/studioms/public_html/atualizarimagem.php on line 14
+[07-May-2020 16:27:47 America/Sao_Paulo] PHP Warning:  rename(,sistema/arquivos/): No such file or directory in /home/studioms/public_html/atualizarimagem.php on line 16
+[07-May-2020 16:32:16 America/Sao_Paulo] PHP Warning:  file_put_contents(): Filename cannot be empty in /home/studioms/public_html/atualizarimagem.php on line 14
+[07-May-2020 16:32:16 America/Sao_Paulo] PHP Warning:  rename(,sistema/arquivos/): No such file or directory in /home/studioms/public_html/atualizarimagem.php on line 16
+[07-May-2020 16:32:16 America/Sao_Paulo] PHP Warning:  file_put_contents(): Filename cannot be empty in /home/studioms/public_html/atualizarimagem.php on line 14
+[07-May-2020 16:32:16 America/Sao_Paulo] PHP Warning:  rename(,sistema/arquivos/): No such file or directory in /home/studioms/public_html/atualizarimagem.php on line 16
+[07-May-2020 19:36:54 UTC] PHP Deprecated:  Function preg_replace() is deprecated in /home/studioms/public_html/finaliza_cadastro.php on line 25
+[08-May-2020 21:14:51 UTC] PHP Deprecated:  Function preg_replace() is deprecated in /home/studioms/public_html/finaliza_cadastro.php on line 25
+[12-May-2020 13:23:36 UTC] PHP Deprecated:  Function preg_replace() is deprecated in /home/studioms/public_html/finaliza_cadastro.php on line 25
+[12-May-2020 13:23:36 UTC] PHP Deprecated:  Function preg_replace() is deprecated in /home/studioms/public_html/finaliza_cadastro.php on line 25
+[12-May-2020 13:23:36 UTC] PHP Deprecated:  Function preg_replace() is deprecated in /home/studioms/public_html/finaliza_cadastro.php on line 25
+[12-May-2020 13:23:36 UTC] PHP Deprecated:  Function preg_replace() is deprecated in /home/studioms/public_html/finaliza_cadastro.php on line 25
+[12-May-2020 13:23:36 UTC] PHP Deprecated:  Function preg_replace() is deprecated in /home/studioms/public_html/finaliza_cadastro.php on line 25
+[14-May-2020 14:08:50 UTC] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/recebe_identificacao.php on line 15
+[14-May-2020 14:11:53 UTC] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/recebe_identificacao.php on line 15
+[14-May-2020 14:13:39 UTC] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/recebe_identificacao.php on line 15
+[14-May-2020 14:18:05 UTC] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/recebe_identificacao.php on line 15
+[15-May-2020 13:23:08 America/Sao_Paulo] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/studioms/public_html/aprovarcontrato.php on line 98
+[20-May-2020 17:46:48 UTC] PHP Deprecated:  Function preg_replace() is deprecated in /home/studioms/public_html/finaliza_cadastro.php on line 25
+[21-May-2020 15:04:43 UTC] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/recebe_identificacao.php on line 15
+[21-May-2020 20:30:20 America/Sao_Paulo] PHP Warning:  file_put_contents(): Filename cannot be empty in /home/studioms/public_html/atualizarimagem.php on line 14
+[21-May-2020 20:30:20 America/Sao_Paulo] PHP Warning:  rename(,sistema/arquivos/): No such file or directory in /home/studioms/public_html/atualizarimagem.php on line 16
+[22-May-2020 09:51:20 America/Sao_Paulo] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/studioms/public_html/confirmacao-aceite.php on line 321
+[22-May-2020 09:51:20 America/Sao_Paulo] PHP Warning:  file_put_contents(arquivos/15901518805ec7cac82d2bc.pdf): failed to open stream: No such file or directory in /home/studioms/public_html/confirmacao-aceite.php on line 330
+[28-May-2020 02:44:28 UTC] PHP Deprecated:  Function preg_replace() is deprecated in /home/studioms/public_html/finaliza_cadastro.php on line 25

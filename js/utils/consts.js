@@ -1,0 +1,1 @@
+const base_api_url = 'https://localhost/studiomfotografia/api';

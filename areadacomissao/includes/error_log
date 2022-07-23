@@ -1,0 +1,8 @@
+[24-Jun-2019 16:46:48 UTC] PHP Warning:  include(../includes/conexao.php): failed to open stream: No such file or directory in /home/studioms/public_html/areadacomissao/includes/menu.php on line 3
+[24-Jun-2019 16:46:48 UTC] PHP Warning:  include(../includes/conexao.php): failed to open stream: No such file or directory in /home/studioms/public_html/areadacomissao/includes/menu.php on line 3
+[24-Jun-2019 16:46:48 UTC] PHP Warning:  include(): Failed opening '../includes/conexao.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/studioms/public_html/areadacomissao/includes/menu.php on line 3
+[24-Jun-2019 16:46:48 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/studioms/public_html/areadacomissao/includes/menu.php on line 34
+[24-Jun-2019 16:46:48 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/studioms/public_html/areadacomissao/includes/menu.php on line 35
+[24-Jun-2019 16:46:48 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/studioms/public_html/areadacomissao/includes/menu.php on line 37
+[24-Jun-2019 16:47:21 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/studioms/public_html/areadacomissao/includes/menu.php on line 35
+[24-Jun-2019 16:47:21 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/studioms/public_html/areadacomissao/includes/menu.php on line 37

@@ -1,0 +1,1295 @@
+[04-May-2022 16:16:02 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.2.0". You are running 5.6.40. in /home/studioms/public_html/teste/api/vendor/composer/platform_check.php on line 25
+[04-May-2022 16:26:06 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.2.0". You are running 5.6.40. in /home/studioms/public_html/teste/api/vendor/composer/platform_check.php on line 25
+[12-May-2022 18:01:26 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:126
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(126): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(21): Source\Models\Titulos->getRecebidos('10', 0, '', 'id', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getRecebidos(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 126
+[12-May-2022 18:01:26 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:74
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(74): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(13): Source\Models\Titulos->getContasAReceber('10', 0, '', 'id', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getContasAReceber(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 74
+[12-May-2022 18:01:26 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:167
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(167): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(29): Source\Models\Titulos->getCobrancas('10', 0, '', 'id', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getCobrancas(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 167
+[13-May-2022 11:19:25 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:167
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(167): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(29): Source\Models\Titulos->getCobrancas('10', 0, '', 'id', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getCobrancas(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 167
+[13-May-2022 11:19:25 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:74
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(74): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(13): Source\Models\Titulos->getContasAReceber('10', 0, '', 'id', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getContasAReceber(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 74
+[13-May-2022 11:19:25 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:126
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(126): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(21): Source\Models\Titulos->getRecebidos('10', 0, '', 'id', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getRecebidos(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 126
+[13-May-2022 12:51:44 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:74
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(74): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(13): Source\Models\Titulos->getContasAReceber('10', 0, '', 'id', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getContasAReceber(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 74
+[13-May-2022 12:51:44 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:167
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(167): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(29): Source\Models\Titulos->getCobrancas('10', 0, '', 'id', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getCobrancas(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 167
+[13-May-2022 12:51:44 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:126
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(126): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(21): Source\Models\Titulos->getRecebidos('10', 0, '', 'id', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getRecebidos(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 126
+[13-May-2022 12:51:49 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:74
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(74): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(13): Source\Models\Titulos->getContasAReceber(10, 0, '', 'fpnome', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getContasAReceber(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 74
+[13-May-2022 12:51:57 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:74
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(74): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(13): Source\Models\Titulos->getContasAReceber(10, 0, '', 'descricao_tipo_...', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getContasAReceber(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 74
+[13-May-2022 13:51:00 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:126
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(126): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(21): Source\Models\Titulos->getRecebidos('10', 0, '', 'id', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getRecebidos(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 126
+[13-May-2022 13:51:00 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:74
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(74): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(13): Source\Models\Titulos->getContasAReceber('10', 0, '', 'id', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getContasAReceber(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 74
+[13-May-2022 13:51:00 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:167
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(167): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(29): Source\Models\Titulos->getCobrancas('10', 0, '', 'id', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getCobrancas(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 167
+[13-May-2022 14:03:09 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:74
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(74): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(13): Source\Models\Titulos->getContasAReceber('10', 0, '', 'id', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getContasAReceber(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 74
+[13-May-2022 14:03:09 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:126
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(126): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(21): Source\Models\Titulos->getRecebidos('10', 0, '', 'id', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getRecebidos(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 126
+[13-May-2022 14:03:09 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:167
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(167): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(29): Source\Models\Titulos->getCobrancas('10', 0, '', 'id', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getCobrancas(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 167
+[13-May-2022 18:21:19 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:167
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(167): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(29): Source\Models\Titulos->getCobrancas('10', 0, '', 'id', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getCobrancas(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 167
+[13-May-2022 18:21:19 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:126
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(126): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(21): Source\Models\Titulos->getRecebidos('10', 0, '', 'id', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getRecebidos(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 126
+[13-May-2022 18:21:19 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:74
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(74): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(13): Source\Models\Titulos->getContasAReceber('10', 0, '', 'id', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getContasAReceber(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 74
+[13-May-2022 18:22:49 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:74
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(74): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(13): Source\Models\Titulos->getContasAReceber('10', 0, '', 'id', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getContasAReceber(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 74
+[13-May-2022 18:22:49 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:126
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(126): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(21): Source\Models\Titulos->getRecebidos('10', 0, '', 'id', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getRecebidos(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 126
+[13-May-2022 18:22:49 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:167
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(167): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(29): Source\Models\Titulos->getCobrancas('10', 0, '', 'id', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getCobrancas(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 167
+[13-May-2022 18:23:20 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:74
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(74): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(13): Source\Models\Titulos->getContasAReceber('10', 0, '', 'id', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getContasAReceber(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 74
+[13-May-2022 18:23:20 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:126
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(126): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(21): Source\Models\Titulos->getRecebidos('10', 0, '', 'id', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getRecebidos(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 126
+[13-May-2022 18:23:20 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:167
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(167): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(29): Source\Models\Titulos->getCobrancas('10', 0, '', 'id', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getCobrancas(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 167
+[13-May-2022 19:18:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:74
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(74): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(13): Source\Models\Titulos->getContasAReceber('10', 0, '', 'id', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getContasAReceber(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 74
+[13-May-2022 19:18:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:126
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(126): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(21): Source\Models\Titulos->getRecebidos('10', 0, '', 'id', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getRecebidos(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 126
+[13-May-2022 19:18:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:167
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(167): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(29): Source\Models\Titulos->getCobrancas('10', 0, '', 'id', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getCobrancas(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 167
+[13-May-2022 19:18:36 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:74
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(74): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(13): Source\Models\Titulos->getContasAReceber(10, 0, '475 -46', 'id', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getContasAReceber(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 74
+[13-May-2022 19:18:39 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:74
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(74): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(13): Source\Models\Titulos->getContasAReceber('10', 0, '', 'id', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getContasAReceber(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 74
+[13-May-2022 19:18:42 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:74
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(74): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(13): Source\Models\Titulos->getContasAReceber(10, 0, '475 -46', 'id', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getContasAReceber(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 74
+[13-May-2022 19:18:48 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:74
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(74): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(13): Source\Models\Titulos->getContasAReceber(10, 0, '475 46', 'id', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getContasAReceber(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 74
+[13-May-2022 19:18:51 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:74
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(74): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(13): Source\Models\Titulos->getContasAReceber(10, 0, '47', 'id', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getContasAReceber(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 74
+[13-May-2022 19:18:51 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:74
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(74): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(13): Source\Models\Titulos->getContasAReceber(10, 0, '475', 'id', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getContasAReceber(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 74
+[13-May-2022 19:18:53 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:74
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(74): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(13): Source\Models\Titulos->getContasAReceber(10, 0, '475-', 'id', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getContasAReceber(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 74
+[13-May-2022 19:18:54 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:74
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(74): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(13): Source\Models\Titulos->getContasAReceber(10, 0, '475-46', 'id', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getContasAReceber(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 74
+[16-May-2022 11:25:54 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:167
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(167): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(29): Source\Models\Titulos->getCobrancas('10', 0, '', 'id', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getCobrancas(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 167
+[16-May-2022 11:25:54 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:74
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(74): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(13): Source\Models\Titulos->getContasAReceber('10', 0, '', 'id', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getContasAReceber(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 74
+[16-May-2022 11:25:54 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:126
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(126): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(21): Source\Models\Titulos->getRecebidos('10', 0, '', 'id', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getRecebidos(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 126
+[16-May-2022 11:26:27 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:126
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(126): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(21): Source\Models\Titulos->getRecebidos('10', 0, '', 'id', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getRecebidos(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 126
+[16-May-2022 11:26:27 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:74
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(74): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(13): Source\Models\Titulos->getContasAReceber('10', 0, '', 'id', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getContasAReceber(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 74
+[16-May-2022 11:26:27 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:167
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(167): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(29): Source\Models\Titulos->getCobrancas('10', 0, '', 'id', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getCobrancas(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 167
+[16-May-2022 11:27:32 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:126
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(126): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(21): Source\Models\Titulos->getRecebidos('10', 0, '', 'id', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getRecebidos(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 126
+[16-May-2022 11:27:32 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:74
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(74): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(13): Source\Models\Titulos->getContasAReceber('10', 0, '', 'id', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getContasAReceber(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 74
+[16-May-2022 11:27:32 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:167
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(167): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(29): Source\Models\Titulos->getCobrancas('10', 0, '', 'id', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getCobrancas(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 167
+[16-May-2022 11:29:27 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:167
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(167): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(29): Source\Models\Titulos->getCobrancas('10', 0, '', 'id', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getCobrancas(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 167
+[16-May-2022 11:29:27 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:74
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(74): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(13): Source\Models\Titulos->getContasAReceber('10', 0, '', 'id', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getContasAReceber(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 74
+[16-May-2022 11:29:27 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:126
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(126): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(21): Source\Models\Titulos->getRecebidos('10', 0, '', 'id', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getRecebidos(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 126
+[16-May-2022 11:31:00 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:74
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(74): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(13): Source\Models\Titulos->getContasAReceber('10', 0, '', 'id', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getContasAReceber(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 74
+[16-May-2022 11:31:00 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:126
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(126): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(21): Source\Models\Titulos->getRecebidos('10', 0, '', 'id', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getRecebidos(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 126
+[16-May-2022 11:31:00 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:167
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(167): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(29): Source\Models\Titulos->getCobrancas('10', 0, '', 'id', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getCobrancas(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 167
+[16-May-2022 13:06:54 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:74
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(74): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(13): Source\Models\Titulos->getContasAReceber('10', 0, '', 'id', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getContasAReceber(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 74
+[16-May-2022 13:06:54 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:126
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(126): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(21): Source\Models\Titulos->getRecebidos('10', 0, '', 'id', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getRecebidos(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 126
+[16-May-2022 13:06:54 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:167
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(167): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(29): Source\Models\Titulos->getCobrancas('10', 0, '', 'id', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getCobrancas(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 167
+[16-May-2022 18:03:23 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:74
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(74): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(13): Source\Models\Titulos->getContasAReceber('10', 0, '', 'id', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getContasAReceber(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 74
+[16-May-2022 18:03:23 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:126
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(126): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(21): Source\Models\Titulos->getRecebidos('10', 0, '', 'id', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getRecebidos(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 126
+[16-May-2022 18:03:23 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:167
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(167): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(29): Source\Models\Titulos->getCobrancas('10', 0, '', 'id', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getCobrancas(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 167
+[16-May-2022 21:11:44 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:126
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(126): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(21): Source\Models\Titulos->getRecebidos('10', 0, '', 'id', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getRecebidos(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 126
+[16-May-2022 21:11:44 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:167
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(167): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(29): Source\Models\Titulos->getCobrancas('10', 0, '', 'id', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getCobrancas(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 167
+[16-May-2022 21:11:44 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:74
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(74): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(13): Source\Models\Titulos->getContasAReceber('10', 0, '', 'id', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getContasAReceber(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 74
+[17-May-2022 11:10:52 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:74
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(74): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(13): Source\Models\Titulos->getContasAReceber('10', 0, '', 'id', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getContasAReceber(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 74
+[17-May-2022 11:10:52 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:167
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(167): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(29): Source\Models\Titulos->getCobrancas('10', 0, '', 'id', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getCobrancas(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 167
+[17-May-2022 11:10:52 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:126
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(126): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(21): Source\Models\Titulos->getRecebidos('10', 0, '', 'id', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getRecebidos(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 126
+[18-May-2022 20:47:44 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.2.0". You are running 5.6.40. in /home/studioms/public_html/teste/api/vendor/composer/platform_check.php on line 25
+[18-May-2022 20:47:44 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.2.0". You are running 5.6.40. in /home/studioms/public_html/teste/api/vendor/composer/platform_check.php on line 25
+[18-May-2022 20:47:45 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.2.0". You are running 5.6.40. in /home/studioms/public_html/teste/api/vendor/composer/platform_check.php on line 25
+[18-May-2022 20:48:01 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.2.0". You are running 5.6.40. in /home/studioms/public_html/teste/api/vendor/composer/platform_check.php on line 25
+[18-May-2022 20:48:02 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.2.0". You are running 5.6.40. in /home/studioms/public_html/teste/api/vendor/composer/platform_check.php on line 25
+[18-May-2022 20:48:02 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.2.0". You are running 5.6.40. in /home/studioms/public_html/teste/api/vendor/composer/platform_check.php on line 25
+[18-May-2022 20:50:14 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:74
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(74): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(13): Source\Models\Titulos->getContasAReceber('10', 0, '', 'id', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getContasAReceber(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 74
+[18-May-2022 20:50:14 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:126
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(126): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(21): Source\Models\Titulos->getRecebidos('10', 0, '', 'id', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getRecebidos(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 126
+[18-May-2022 20:50:14 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:167
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(167): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(29): Source\Models\Titulos->getCobrancas('10', 0, '', 'id', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getCobrancas(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 167
+[18-May-2022 20:50:21 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:74
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(74): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(13): Source\Models\Titulos->getContasAReceber('10', 0, '', 'id', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getContasAReceber(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 74
+[18-May-2022 20:50:21 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:126
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(126): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(21): Source\Models\Titulos->getRecebidos('10', 0, '', 'id', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getRecebidos(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 126
+[18-May-2022 20:50:22 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:167
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(167): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(29): Source\Models\Titulos->getCobrancas('10', 0, '', 'id', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getCobrancas(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 167
+[18-May-2022 20:50:35 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:74
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(74): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(13): Source\Models\Titulos->getContasAReceber('10', 0, '', 'id', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getContasAReceber(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 74
+[18-May-2022 20:50:35 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:126
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(126): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(21): Source\Models\Titulos->getRecebidos('10', 0, '', 'id', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getRecebidos(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 126
+[18-May-2022 20:50:35 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:167
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(167): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(29): Source\Models\Titulos->getCobrancas('10', 0, '', 'id', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getCobrancas(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 167
+[18-May-2022 20:51:27 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:74
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(74): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(13): Source\Models\Titulos->getContasAReceber('10', 0, '', 'id', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getContasAReceber(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 74
+[18-May-2022 20:51:27 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:126
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(126): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(21): Source\Models\Titulos->getRecebidos('10', 0, '', 'id', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getRecebidos(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 126
+[18-May-2022 20:51:27 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:167
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(167): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(29): Source\Models\Titulos->getCobrancas('10', 0, '', 'id', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getCobrancas(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 167
+[18-May-2022 20:52:46 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:126
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(126): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(21): Source\Models\Titulos->getRecebidos('10', 0, '', 'id', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getRecebidos(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 126
+[18-May-2022 20:52:46 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:74
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(74): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(13): Source\Models\Titulos->getContasAReceber('10', 0, '', 'id', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getContasAReceber(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 74
+[18-May-2022 20:52:46 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:167
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(167): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(29): Source\Models\Titulos->getCobrancas('10', 0, '', 'id', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getCobrancas(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 167
+[18-May-2022 20:53:17 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:74
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(74): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(13): Source\Models\Titulos->getContasAReceber('10', 0, '', 'id', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getContasAReceber(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 74
+[18-May-2022 20:53:20 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:74
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(74): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(13): Source\Models\Titulos->getContasAReceber('10', 0, '', 'id', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getContasAReceber(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 74
+[18-May-2022 20:53:26 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:74
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(74): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(13): Source\Models\Titulos->getContasAReceber('10', 0, '', 'id', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getContasAReceber(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 74
+[18-May-2022 20:53:26 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:126
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(126): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(21): Source\Models\Titulos->getRecebidos('10', 0, '', 'id', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getRecebidos(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 126
+[18-May-2022 20:53:27 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:167
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(167): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(29): Source\Models\Titulos->getCobrancas('10', 0, '', 'id', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getCobrancas(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 167
+[18-May-2022 20:55:47 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:74
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(74): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(13): Source\Models\Titulos->getContasAReceber('10', 0, '', 'id', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getContasAReceber(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 74
+[18-May-2022 20:55:47 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:126
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(126): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(21): Source\Models\Titulos->getRecebidos('10', 0, '', 'id', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getRecebidos(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 126
+[18-May-2022 20:55:47 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:167
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(167): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(29): Source\Models\Titulos->getCobrancas('10', 0, '', 'id', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getCobrancas(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 167
+[18-May-2022 20:56:12 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:74
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(74): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(13): Source\Models\Titulos->getContasAReceber('10', 0, '', 'id', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getContasAReceber(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 74
+[18-May-2022 20:56:49 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:126
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(126): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(21): Source\Models\Titulos->getRecebidos('10', 0, '', 'id', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getRecebidos(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 126
+[18-May-2022 20:56:49 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:74
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(74): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(13): Source\Models\Titulos->getContasAReceber('10', 0, '', 'id', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getContasAReceber(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 74
+[18-May-2022 20:56:49 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:167
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(167): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(29): Source\Models\Titulos->getCobrancas('10', 0, '', 'id', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getCobrancas(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 167
+[18-May-2022 20:57:23 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:74
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(74): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(13): Source\Models\Titulos->getContasAReceber('10', 0, '', 'id', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getContasAReceber(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 74
+[18-May-2022 20:57:23 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:126
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(126): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(21): Source\Models\Titulos->getRecebidos('10', 0, '', 'id', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getRecebidos(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 126
+[18-May-2022 20:57:23 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:167
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(167): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(29): Source\Models\Titulos->getCobrancas('10', 0, '', 'id', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getCobrancas(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 167
+[19-May-2022 11:13:11 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:74
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(74): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(13): Source\Models\Titulos->getContasAReceber('10', 0, '', 'id', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getContasAReceber(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 74
+[19-May-2022 11:32:41 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:126
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(126): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(21): Source\Models\Titulos->getRecebidos('10', 0, '', 'id', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getRecebidos(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 126
+[19-May-2022 11:32:41 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:74
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(74): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(13): Source\Models\Titulos->getContasAReceber('10', 0, '', 'id', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getContasAReceber(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 74
+[19-May-2022 11:32:41 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:167
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(167): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(29): Source\Models\Titulos->getCobrancas('10', 0, '', 'id', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getCobrancas(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 167
+[19-May-2022 11:33:25 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:126
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(126): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(21): Source\Models\Titulos->getRecebidos('10', 0, '', 'id', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getRecebidos(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 126
+[19-May-2022 11:33:25 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:74
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(74): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(13): Source\Models\Titulos->getContasAReceber('10', 0, '', 'id', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getContasAReceber(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 74
+[19-May-2022 11:33:25 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:167
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(167): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(29): Source\Models\Titulos->getCobrancas('10', 0, '', 'id', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getCobrancas(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 167
+[20-May-2022 14:28:27 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:74
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(74): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(13): Source\Models\Titulos->getContasAReceber('10', 0, '', 'id', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getContasAReceber(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 74
+[20-May-2022 14:28:27 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:126
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(126): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(21): Source\Models\Titulos->getRecebidos('10', 0, '', 'id', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getRecebidos(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 126
+[20-May-2022 14:28:27 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:167
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(167): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(29): Source\Models\Titulos->getCobrancas('10', 0, '', 'id', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getCobrancas(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 167
+[25-May-2022 12:13:04 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:74
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(74): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(13): Source\Models\Titulos->getContasAReceber('10', 0, '', 'id', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getContasAReceber(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 74
+[25-May-2022 12:13:04 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:126
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(126): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(21): Source\Models\Titulos->getRecebidos('10', 0, '', 'id', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getRecebidos(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 126
+[25-May-2022 12:13:04 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:167
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(167): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(29): Source\Models\Titulos->getCobrancas('10', 0, '', 'id', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getCobrancas(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 167
+[25-May-2022 12:13:19 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:74
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(74): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(13): Source\Models\Titulos->getContasAReceber('10', 0, '', 'id', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getContasAReceber(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 74
+[25-May-2022 12:13:19 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:126
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(126): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(21): Source\Models\Titulos->getRecebidos('10', 0, '', 'id', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getRecebidos(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 126
+[25-May-2022 12:13:19 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:167
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(167): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(29): Source\Models\Titulos->getCobrancas('10', 0, '', 'id', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getCobrancas(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 167
+[25-May-2022 12:13:38 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:126
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(126): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(21): Source\Models\Titulos->getRecebidos('10', 0, '', 'id', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getRecebidos(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 126
+[25-May-2022 12:20:01 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:126
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(126): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(21): Source\Models\Titulos->getRecebidos('10', 0, '', 'id', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getRecebidos(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 126
+[25-May-2022 12:20:01 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:74
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(74): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(13): Source\Models\Titulos->getContasAReceber('10', 0, '', 'id', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getContasAReceber(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 74
+[25-May-2022 12:20:02 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:167
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(167): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(29): Source\Models\Titulos->getCobrancas('10', 0, '', 'id', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getCobrancas(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 167
+[25-May-2022 12:21:10 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:74
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(74): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(13): Source\Models\Titulos->getContasAReceber('10', 0, '', 'id', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getContasAReceber(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 74
+[25-May-2022 12:21:10 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:126
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(126): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(21): Source\Models\Titulos->getRecebidos('10', 0, '', 'id', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getRecebidos(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 126
+[25-May-2022 12:21:10 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:167
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(167): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(29): Source\Models\Titulos->getCobrancas('10', 0, '', 'id', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getCobrancas(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 167
+[25-May-2022 12:21:17 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:74
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(74): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(13): Source\Models\Titulos->getContasAReceber('10', 0, '', 'id', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getContasAReceber(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 74
+[25-May-2022 12:22:03 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:74
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(74): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(13): Source\Models\Titulos->getContasAReceber('10', 0, '', 'id', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getContasAReceber(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 74
+[25-May-2022 12:22:04 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:74
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(74): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(13): Source\Models\Titulos->getContasAReceber('10', 0, '', 'id', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getContasAReceber(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 74
+[03-Jun-2022 20:35:34 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:126
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(126): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(21): Source\Models\Titulos->getRecebidos('10', 0, '', 'id', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getRecebidos(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 126
+[03-Jun-2022 20:35:34 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:74
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(74): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(13): Source\Models\Titulos->getContasAReceber('10', 0, '', 'id', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getContasAReceber(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 74
+[03-Jun-2022 20:35:34 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:167
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(167): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(29): Source\Models\Titulos->getCobrancas('10', 0, '', 'id', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getCobrancas(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 167
+[16-Jun-2022 11:35:55 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:167
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(167): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(29): Source\Models\Titulos->getCobrancas('10', 0, '', 'id', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getCobrancas(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 167
+[16-Jun-2022 11:35:55 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:126
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(126): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(21): Source\Models\Titulos->getRecebidos('10', 0, '', 'id', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getRecebidos(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 126
+[16-Jun-2022 11:35:55 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:74
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(74): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(13): Source\Models\Titulos->getContasAReceber('10', 0, '', 'id', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getContasAReceber(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 74
+[16-Jun-2022 13:26:56 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:74
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(74): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(13): Source\Models\Titulos->getContasAReceber('10', 0, '', 'id', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getContasAReceber(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 74
+[16-Jun-2022 13:26:56 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:167
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(167): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(29): Source\Models\Titulos->getCobrancas('10', 0, '', 'id', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getCobrancas(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 167
+[16-Jun-2022 13:26:56 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:126
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(126): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(21): Source\Models\Titulos->getRecebidos('10', 0, '', 'id', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getRecebidos(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 126
+[16-Jun-2022 13:27:13 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:74
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(74): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(13): Source\Models\Titulos->getContasAReceber(10, 0, 's', 'id', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getContasAReceber(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 74
+[16-Jun-2022 13:27:14 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:74
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(74): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(13): Source\Models\Titulos->getContasAReceber(10, 0, 's', 'id', 'asc')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getContasAReceber(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(24): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 74
+[16-Jun-2022 13:46:23 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:38
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(38): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(14): Source\Models\Titulos->getContasAReceber('10', 0, '', 't.ncontrato , f...', 'ASC')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getContasAReceber(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(52): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 38
+[16-Jun-2022 13:46:23 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:139
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(139): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(22): Source\Models\Titulos->getRecebidos('10', 0, '', 't.ncontrato , f...', 'ASC')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getRecebidos(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(52): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 139
+[16-Jun-2022 13:46:23 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:82
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(82): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(30): Source\Models\Titulos->getCobrancas('10', 0, '', 't.ncontrato , f...', 'ASC')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getCobrancas(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(52): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 82
+[16-Jun-2022 13:46:23 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:324
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(324): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(46): Source\Models\Titulos->getFluxoDeCaixa('10', 0, '', 'mf.id_movimenta...', 'ASC')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getFluxoDeCaixa(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(52): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 324
+[16-Jun-2022 13:46:23 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:454
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(454): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(54): Source\Models\Titulos->getFluxoFuturo('10', 0, '', 'contrato', 'ASC')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getFluxoFuturo(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(52): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 454
+[16-Jun-2022 13:46:34 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:38
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(38): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(14): Source\Models\Titulos->getContasAReceber('10', 0, '', 't.ncontrato , f...', 'ASC')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getContasAReceber(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(52): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 38
+[16-Jun-2022 13:46:34 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:139
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(139): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(22): Source\Models\Titulos->getRecebidos('10', 0, '', 't.ncontrato , f...', 'ASC')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getRecebidos(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(52): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 139
+[16-Jun-2022 13:46:34 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:82
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(82): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(30): Source\Models\Titulos->getCobrancas('10', 0, '', 't.ncontrato , f...', 'ASC')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getCobrancas(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(52): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 82
+[16-Jun-2022 13:46:34 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:454
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(454): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(54): Source\Models\Titulos->getFluxoFuturo('10', 0, '', 'contrato', 'ASC')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getFluxoFuturo(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(52): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 454
+[16-Jun-2022 13:46:34 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:324
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(324): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(46): Source\Models\Titulos->getFluxoDeCaixa('10', 0, '', 'mf.id_movimenta...', 'ASC')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getFluxoDeCaixa(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(52): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 324
+[16-Jun-2022 13:47:22 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:38
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(38): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(14): Source\Models\Titulos->getContasAReceber(10, 0, '', 't.ncontrato , f...', 'ASC')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getContasAReceber(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(52): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 38
+[16-Jun-2022 13:47:26 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'studioms_homologacao.tipos_venda' doesn't exist in /home/studioms/public_html/teste/api/source/Models/Titulos.php:38
+Stack trace:
+#0 /home/studioms/public_html/teste/api/source/Models/Titulos.php(38): PDOStatement->execute(Array)
+#1 /home/studioms/public_html/teste/api/source/Controllers/Web.php(14): Source\Models\Titulos->getContasAReceber(10, 0, '', 't.ncontrato , f...', 'ASC')
+#2 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(143): Source\Controllers\Web->getContasAReceber(Array)
+#3 /home/studioms/public_html/teste/api/vendor/coffeecode/router/src/Dispatch.php(123): CoffeeCode\Router\Dispatch->execute()
+#4 /home/studioms/public_html/teste/api/index.php(52): CoffeeCode\Router\Dispatch->dispatch()
+#5 {main}
+  thrown in /home/studioms/public_html/teste/api/source/Models/Titulos.php on line 38

@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+<script type="text/javascript">
+var ss = -1;
+function atualizaContador(futuro) 
+{
+  ss = (ss==-1) ? futuro : ss;
+  var faltam =  'Você será redirecionado em '+ss+' segundos.';
+
+  if (ss > 0) {
+	document.getElementById('contador').innerHTML = faltam;
+	ss--;
+	setTimeout(atualizaContador,1000);	
+  } else {
+	location.href="site.html";
+  }
+}
+</script>
+
+<!-- quando você passa a função para o documento, pode passar por parâmetro a quantidade de seg, q a pagina vai ficar  -->
+<body onLoad="atualizaContador(15);">
+<div id="contador"> </div>
+</body>
+</html>

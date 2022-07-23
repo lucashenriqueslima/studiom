@@ -1,0 +1,18 @@
+[27-Jun-2019 13:12:11 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/studioms/public_html/arearestrita/getnet/conexao.php on line 13
+[27-Jun-2019 17:09:20 UTC] PHP Fatal error:  Call to undefined function int() in /home/studioms/public_html/arearestrita/getnet/conexao.php on line 31
+[27-Jun-2019 17:35:59 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/studioms/public_html/arearestrita/getnet/conexao.php on line 33
+[27-Jun-2019 17:36:25 UTC] PHP Parse error:  syntax error, unexpected '"5155901222280001"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/studioms/public_html/arearestrita/getnet/conexao.php on line 33
+[28-Jun-2019 14:15:47 UTC] PHP Warning:  include(../includes/conexao.php): failed to open stream: No such file or directory in /home/studioms/public_html/arearestrita/getnet/pagamento-cartao.php on line 3
+[28-Jun-2019 14:15:47 UTC] PHP Warning:  include(../includes/conexao.php): failed to open stream: No such file or directory in /home/studioms/public_html/arearestrita/getnet/pagamento-cartao.php on line 3
+[28-Jun-2019 14:15:47 UTC] PHP Warning:  include(): Failed opening '../includes/conexao.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/studioms/public_html/arearestrita/getnet/pagamento-cartao.php on line 3
+[28-Jun-2019 14:15:47 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/studioms/public_html/arearestrita/getnet/pagamento-cartao.php on line 7
+[28-Jun-2019 14:15:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/studioms/public_html/arearestrita/getnet/pagamento-cartao.php on line 8
+[28-Jun-2019 14:15:47 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/studioms/public_html/arearestrita/getnet/pagamento-cartao.php on line 10
+[28-Jun-2019 14:15:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/studioms/public_html/arearestrita/getnet/pagamento-cartao.php on line 11
+[28-Jun-2019 14:17:32 UTC] PHP Warning:  include(../includes/conexao.php): failed to open stream: No such file or directory in /home/studioms/public_html/arearestrita/getnet/pagamento-cartao.php on line 3
+[28-Jun-2019 14:17:32 UTC] PHP Warning:  include(../includes/conexao.php): failed to open stream: No such file or directory in /home/studioms/public_html/arearestrita/getnet/pagamento-cartao.php on line 3
+[28-Jun-2019 14:17:32 UTC] PHP Warning:  include(): Failed opening '../includes/conexao.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/studioms/public_html/arearestrita/getnet/pagamento-cartao.php on line 3
+[28-Jun-2019 14:17:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/studioms/public_html/arearestrita/getnet/pagamento-cartao.php on line 7
+[28-Jun-2019 14:17:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/studioms/public_html/arearestrita/getnet/pagamento-cartao.php on line 8
+[28-Jun-2019 14:17:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/studioms/public_html/arearestrita/getnet/pagamento-cartao.php on line 10
+[28-Jun-2019 14:17:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/studioms/public_html/arearestrita/getnet/pagamento-cartao.php on line 11

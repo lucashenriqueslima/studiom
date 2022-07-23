@@ -1,0 +1,18 @@
+<IfModule alias_module>
+
+    RedirectMatch /qr-code.php&id=439 /qr-code.php?id=439
+
+    RedirectMatch /qr-code.php&id=379 /qr-code.php?id=379
+
+    RedirectMatch /qr-code.php&id=341 /qr-code.php?id=341
+        
+    RedirectMatch /qr-code.php&id=414 /qr-code.php?id=414
+
+    RedirectMatch /qr-code.php&id=333 /qr-code.php?id=333
+    
+    RewriteEngine On
+    RewriteCond %{QUERY_STRING} ^contrato=393$
+    RewriteRule ^qr-code.php$ /qr-code.php?id=393 [R=301,L,QSD] 
+    
+    
+</IfModule>

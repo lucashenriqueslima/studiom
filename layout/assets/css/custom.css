@@ -1,0 +1,25 @@
+.content-wrapper {
+    background-color: #ffffff;
+}
+
+.skin-yellow .wrapper, .skin-yellow .main-sidebar, .skin-yellow .left-side {
+    background-color: #999;
+}
+
+.skin-yellow .sidebar-menu>li.header {
+    color: #fff;
+    background: #999;
+}
+
+.skin-yellow .sidebar-menu>li:hover>a, .skin-yellow .sidebar-menu>li.active>a, .skin-yellow .sidebar-menu>li.menu-open>a {
+    background: #999;
+}
+
+.skin-yellow .treeview-menu>li.header {
+    color: #fff;
+    background: #999;
+}
+
+.skin-yellow .sidebar a {
+    color: #000;
+}

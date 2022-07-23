@@ -1,0 +1,303 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>StudioM Fotografia</title>
+    <style>
+        html {
+            background: url('imgs/background.jpeg') no-repeat center fixed;
+            background-size: cover;
+        }
+
+        #box {
+            position: fixed;
+            width: 100%;
+            height: auto;
+            border-radius: 10px;
+            top: 50%;
+            padding: 10px;
+            margin-bottom: 20px;
+        }
+
+        #menu ul {
+            position: fixed;
+            top: 2vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            width: 100%;
+            height: auto;
+            list-style-type: none;
+        }
+
+        #menu ul li a {
+            padding: 30px;
+            display: block;
+        }
+
+        @media screen and (max-device-width: 768px) {
+            #cadastro {
+                width: 170px;
+                height: 34px;
+            }
+
+            #faleconosco {
+                width: 252px;
+                height: 36px;
+            }
+
+            #preeventos {
+                width: 252px;
+                height: 36px;
+            }
+
+            #arearestrita {
+                width: 362 px;
+                height: 42px;
+            }
+
+            #areadacomissao {
+                width: 346px;
+                height: 42px;
+            }
+
+            #portfolio {
+                width: 162px;
+                height: 36px;
+            }
+
+            #reconhecimentofacial {
+                width: 442px;
+                height: 34px;
+            }
+        }
+
+        #convite {
+            margin: auto;
+            position: fixed;
+            width: 90%;
+            height: auto;
+            top: 70%;
+            left: 0;
+            right: 0;
+            bottom: 0;
+        }
+
+        #logo {
+            width: 60%;
+            height: auto;
+            position: fixed;
+            margin: auto;
+            left: 0;
+            right: 0;
+            top: 6%;
+            bottom: 0;
+        }
+
+        #socialmedia {
+            right: 1%;
+            bottom: 1%;
+            width: 30%;
+            height: auto;
+            position: fixed;
+        }
+
+        #instagram {
+            width: 90px;
+            height: auto;
+        }
+
+        #facebook {
+            width: 90px;
+            height: auto;
+        }
+
+        #whatsapp {
+            width: 90px;
+            height: auto;
+        }
+
+        #logo-corporativa {
+            width: 30%;
+            height: auto;
+            position: absolute;
+            margin: auto;
+            left: 0;
+            right: 0;
+            top: -165px;
+            bottom: 0;
+        }
+
+        @media screen and (min-device-width: 480px) {
+            html {
+                background: url('imgs/background.jpeg') no-repeat center fixed;
+                background-size: cover;
+            }
+
+            #box {
+                width: 100%;
+                position: fixed;
+                height: auto;
+                border-radius: 10px;
+                margin: auto;
+                padding: 10px;
+                margin-bottom: 20px;
+            }
+
+            #menu ul {
+                top: 10vh;
+                width: 100%;
+                height: auto;
+                display: inline-block;
+                text-align: center;
+                padding: 0px;
+            }
+
+            #menu ul li {
+                display: inline-block;
+                margin: 0 0 3px 0;
+            }
+
+            #menu ul li a {
+                padding: 0px;
+                display: inline-block;
+                color: #666666;
+                text-decoration: none;
+            }
+
+            #menu ul li a:hover {
+                opacity: 0.7;
+                color: #6D6D6D;
+            }
+
+            #menu ul li img {
+                width: 80%;
+                height: auto;
+            }
+
+            #convite {
+                margin: auto;
+                position: fixed;
+                width: 30%;
+                height: auto;
+                top: 79%;
+                left: 0;
+                right: 0;
+                bottom: 0;
+            }
+
+            #logo {
+                width: 28%;
+                height: auto;
+                position: absolute;
+                margin: auto;
+                left: 0;
+                right: 0;
+                top: 6%;
+                bottom: 0;
+            }
+
+            #socialmedia {
+                top: 2%;
+                right: 1%;
+                bottom: 0;
+                position: fixed;
+                width: 11%;
+                height: auto;
+                text-align: right;
+            }
+
+            #logo-corporativa {
+                max-width: 10%;
+                height: auto;
+                position: absolute;
+                margin: auto;
+                left: 0;
+                right: 0;
+                top: -250px;
+                bottom: 0;
+            }
+
+            #instagram {
+                min-width: 15px;
+                margin-right: 10%;
+                width: 18%;
+                height: auto;
+            }
+
+            #facebook {
+                min-width: 15px;
+                width: 18%;
+                height: auto;
+            }
+
+            #whatsapp {
+                min-width: 15px;
+                margin-right: 10%;
+                width: 18%;
+                height: auto;
+            }
+
+            #whatsapp:hover {
+                opacity: 0.7;
+            }
+
+            #facebook:hover {
+                opacity: 0.7;
+            }
+
+            #instagram:hover {
+                opacity: 0.7;
+            }
+        }
+    </style>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-84829456-1">
+    </script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+
+        gtag('js', new Date());
+
+        gtag('config', 'UA-84829456-1');
+    </script>
+</head>
+<!--<link crossorigin="anonymous" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"-->
+<!--      integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" rel="stylesheet">-->
+<body>
+<div class="container">
+    <div id="socialmedia">
+        <a href="https://api.whatsapp.com/send?phone=5562999111728" target="_blank"><img id="whatsapp"
+                                                                                         src="imgs/Logo%20-%20WhatsApp-01.png"></a>
+        <a href="https://www.instagram.com/studiomfotografia/" target="_blank"><img alt="" id="instagram"
+                                                                                    src="imgs/Instagram.png"></a>
+        <a href="https://www.facebook.com/StudioMFotografia" target="_blank"><img alt="" id="facebook"
+                                                                                  src="imgs/Facebook.png"></a>
+    </div>
+    <nav id="menu">
+        <ul>
+            <li><a href="efetuarcadastro.html"><img id="cadastro" src="imgs/Cadastro.png"></a></li>
+            <li><a href="identificacao_formando.php"><img id="reconhecimentofacial" src="imgs/ReconhecimentoFacial.png"></a>
+            </li>
+            <li><a href="arearestrita/"><img id="arearestrita" src="imgs/Área%20do%20Formando.png"></a></li>
+            <li><a href="areadacomissao/"><img id="areadacomissao" src="imgs/Área%20da%20Comissão.png"></a></li>
+            <li><a href="https://www.instagram.com/studiomfotografia/" target="_blank"><img id="portfolio"
+                                                                                            src="imgs/Portfólio.png"></a>
+            </li>
+            <li><a href="preeventos.php"><img id="preeventos" src="imgs/Pré-eventos.png"></a></li>
+            <li><a href="fale_conosco.php"><img id="faleconosco" src="imgs/Fale%20Conosco.png"></a></li>
+        </ul>
+    </nav>
+    <div id="box">
+        <img id="logo-corporativa" src="imgs/Studio%20M%20-%20Logo-03.png">
+        <img id="logo" src="imgs/Logo.png">
+        <img id="convite" src="imgs/convites%20e%20álbuns%20personalizados%20de%20formatura.png">
+    </div>
+</div>
+</body>
+</html>

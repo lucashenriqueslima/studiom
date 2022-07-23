@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>StudioM Fotografia</title>
+</head>
+<link href="layout/assets/extra-libs/datatables.net-bs4/css/dataTables.bootstrap4.css" rel="stylesheet">
+<link href="layout/dist/css/style.min.css" rel="stylesheet">
+<link href="imgs/logo1.png" rel="icon" sizes="32x32" type="image/png">
+<style>
+
+    body {
+        background-image: url("imgs/fundo.png");
+    }
+
+    #box {
+        width: 400px;
+        height: 100%;
+        border-radius: 10px;
+        margin: auto;
+        padding: 10px;
+        margin-bottom: 20px;
+    }
+    #logo{
+        margin-left: 1%;
+        width: 40%;
+        height: auto;
+    }
+    
+
+</style>
+<body>
+<br>
+<br>
+<br>
+<br>
+<div class="container">
+    <div align="center" id="box">
+
+        <img id="logo" src="imgs/Studio%20M%20-%20Logo-01.png">
+
+        <br>
+        <br>
+        <h4><strong style="font-family: 'Nunito Sans',sans-serif;">Bem Vindo!</strong></h4>
+        <p align="justify" style="font-family: 'Nunito Sans',sans-serif;">Atenção. Ao preencher os dados do cadastro é importante a veracidade e a atenção aos mesmos,
+            pois estas informações serão utilizadas em locais importantes, assim como seu álbum de fotografia e
+            principalmente o convite de formatura. Portanto, se atente a grafia correta dos nomes, pois a
+            responsabilidade desta informação é de cada formando. Evite utilizar abreviações e utilize preferencialmente
+            o preenchimento em caixa alta (letras maiúsculas).</p>
+
+        <br>
+        <div style="font-family: 'Nunito Sans',sans-serif;">
+            Obrigado!
+        </div>
+
+        <br>
+        <br>
+
+        <div align="center">
+                <button type="button" class="btn btn-primary" id="sign_in" data-toggle="modal" data-target="#modalExemplo"><i class="fa fa-check"></i>  Cadastrar</button>
+        </div>
+    </div>
+</div>  
+
+<!-- Modal -->
+<div class="modal fade" id="modalExemplo" tabindex="-1" role="dialog" aria-labelledby="TituloModalCentralizado" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="TituloModalCentralizado">Termo de Consentimento para Tratamento de Dados Pessoais</h5>
+          <button type="button" class="close" data-dismiss="modal" aria-label="Fechar">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body" id="modal_content">
+        <p align="justify">
+            O Studio M declara a utilização dos Dados Pessoais com base no interesse legítimo ou execução
+            de contrato para fins internos. Asseguramos que o Studio M está empenhado na proteção dos
+            seus dados, em observância à legislação de proteção de dados.
+            <br><br>
+            O Studio M poderá compartilhar os Dados Pessoais quando necessário em decorrência de
+            obrigação legal, determinação de autoridade competente ou decisão judicial, sendo certo que
+            notificará os Titulares sobre a solicitação. O compartilhamento com as autoridades e órgãos
+            reguladores poderá ter como objetivo, ainda, o auxílio em investigações e medidas de prevenção
+            e combate a ilícitos, o exercício regular de direitos do Studio M ou o cumprimento de obrigação
+            legal ou regulatória. Em todas as previsões, há o comprometimento de revelação somente das
+            informações e Dados Pessoais estritamente necessários, limitando-se ao mínimo exigido.
+            <br><br>
+            O Studio M também poderá compartilhar seus dados com a Associação de comissão de formatura
+            a qual você faz parte.
+            <br><br>
+            Não manteremos seus dados pessoais por mais tempo do que o necessário para as finalidades
+            declaradas acima, nem utilizaremos seus dados para outros fins, exceto nas hipóteses
+            autorizadas por Lei.
+            <br><br>
+            Para exercer seu direito como titular dos dados pessoais, você pode entrar em contato com o
+            Encarregado de Dados, através do e-mail: cliente@studiomfotografia.com.br
+        </p>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-danger" id="deny_btn">Não concordo com os Termos de Uso</button>
+        <a href="efetuarcadastro_contrato.html">
+            <button type="button" class="btn btn-primary" id="accept_btn">Concordo com os Termos de Uso</button>
+        </a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+</body>
+</html>
+<script>
+
+    document.querySelector("#deny_btn").addEventListener("click", function(){
+        document.querySelector("#modal_content").innerHTML +=  `<br><br><p class="text-danger">"Para que você possa realizar seu cadastro junto ao Studio M é necessário seu consentimento quanto ao uso dos seus dados pessoais. É apenas um consentimento que a atual lei de proteção de dados exige."</p>` ;
+        document.querySelector("#deny_btn").remove();
+});
+
+</script>
+
